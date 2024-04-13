@@ -12,6 +12,7 @@ The game objective is straightforward: players need to control a snake to eat ra
 5. After the game ends, the screen will display which player won. Press any key (W, A, S, D, I, J, K, L) at this point to return to the game screen.
 
 ## Demo video
+[demo](https://youtu.be/_5JRCLTOKHc?si=XnIgR-wK3ZjNG6-r)
 
 ## Reference
 [基于FPGA的贪吃蛇游戏设计-友晶科技](https://mp.weixin.qq.com/s?__biz=MzAwNjUxNzY0MQ==&mid=2649099442&idx=1&sn=e2ca0a4f64d2f673077d16ceece4ed68&chksm=831e8a54b46903428eff4644da05c6392ba5b4194ca9c74598aba7f8323afebb488d7bc796fb&cur_album_id=3208133627566325766&scene=189#wechat_redirect)
